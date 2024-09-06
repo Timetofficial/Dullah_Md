@@ -1,8 +1,8 @@
 {
-  "name":"DULLAH MD UPDATE",
-  "description":"Best WhatsApp Bot Developed By Dulla Contact Us 255716945971 Thank you for choose Dullah Md",
+  "name":"MR HEISME ✌️ MD UPDATE",
+  "description":"Best WhatsApp Bot Developed By MR HEISME Contact Us 255652248835 Thank you for choose Dullah Md",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/bb24465612098159bb5a9.jpg",
+  "logo":"https://telegra.ph/file/0584b5b57c8fdde99a583.jpg",
   "repository":"https://github.com/abdallahsalimjuma/Dullah_Md",
   "succes_url":"/",
   "stack":"container",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DULLAH MD 🌟",
+      "value":MR HEISME MD 🌟",
       "required":false
 
     } ,

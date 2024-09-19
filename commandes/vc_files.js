@@ -17,7 +17,7 @@ const runtime = function (seconds) {
  } 
 
 
-zokou({ nomCom: 'vcf',
+zokou({ nomCom: 'vcf5',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '📄', 
@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/CP2BirU5pBj04cXXgEbfuv`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/CP2BirU5pBj04cXXgEbfuv`) 
 
    
 
@@ -78,10 +78,10 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'channel1',
+zokou({ nomCom: 'dullahmd',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🚀', 
+    reaction: '🤭', 
     fromMe: 'true', 
 
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top here to join my second channel https://whatsapp.com/channel/CP2BirU5pBj04cXXgEbfuv`) 
+                 await repondre(`*Tap Here To Join DULLAH MD Telegram Chatroom* https://t.me/+CP2BirU5pBj04cXXgEbfuv`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_dullag md bot_*`) 
+                 await repondre(`*_dullah md bot_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'dullahbot',
+zokou({ nomCom: 'dullahmd',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'dullahbot',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join dullah md group https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv`) 
+                 await repondre(`*Tap To Join Dullah Md WhatsApp Chartroom Group* https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv`) 
 
    
 
@@ -159,7 +159,7 @@ zokou({ nomCom: 'dullahbot',
 )
 
 
-zokou({ nomCom: 'mee',
+zokou({ nomCom: 'hack2',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🐅', 
@@ -170,7 +170,26 @@ zokou({ nomCom: 'mee',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`For Help Contact As 1.:Https://wa.me/255716945971, 2.:Https://wa.me/255716945971, 3.:Https://wa.me/255756715126`) 
+                 await repondre(`Injecting Malware",
+    " █ 10%",
+    " █ █ 20%",
+    " █ █ █ 30%",
+    " █ █ █ █ 40%",
+    " █ █ █ █ █ 50%",
+    " █ █ █ █ █ █ 60%",
+    " █ █ █ █ █ █ █ 70%",
+    " █ █ █ █ █ █ █ █ 80%",
+    " █ █ █ █ █ █ █ █ █ 90%",
+    " █ █ █ █ █ █ █ █ █ █ 100%",
+    "System hijacking on process..\nConnecting to Server error to find 404",
+    "Device successfully connected...\nReceiving data...",
+    "Data hijacked from device 100% completed\nKilling all evidence, killing all malwares...",
+    "HACKING COMPLETED",
+    "SENDING LOG DOCUMENTS...",
+    "SUCCESSFULLY SENT DATA AND Connection disconnected",
+    "BACKLOGS CLEARED",
+    "POWERED BY DULLAH MD BOT",
+    "By Mr Dullah`) 
 
    
 

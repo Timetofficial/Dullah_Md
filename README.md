@@ -62,11 +62,11 @@ star✨ my repo bruh don't forget please🤖
  GET SESSION ID BY
  
 
-<a href="https://code-generation-9o9q.onrender.comqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://code-generation-setv.onrender.comqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://code-generation-9o9q.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://code-generation-setv.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
@@ -78,10 +78,6 @@ star✨ my repo bruh don't forget please🤖
 
    ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abdallahsalimjuma/Dullah_Md/tree/main)***
 
-### 4. DEPLOY ANY BOT YOU LIKE HERE
-         `Don't change here`
-<br>
-<a href="https://github.com/Frecyber/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ##
@@ -111,7 +107,7 @@ The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opens
 ## DEVELOPERS :
          `don't change here`
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**FREDIE TECH**](https://github.com/Fred1e)
+- [**DULLAH MD**](https://github.com/DULLAH_MD)
 - [** FRECYBER TECH**](https://github.com/Frecyber)
 - [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
